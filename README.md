@@ -10,7 +10,7 @@ N/A
 
 This study guide can be used to referance material learned in the prework. To use launch the Chrome Devtools by pressing CONTROL+SHIFT+I. Using the opened panel navigate to the CONSOLE tab. This will provide suggestions on what topics to study.
 
-![referance](prework-study-guide/assets/images/prework-referance.png)
+![referance](assets/images/prework-referance.png)
 
 ## Credits
 N/A
